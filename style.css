@@ -1,0 +1,22 @@
+li.completed {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer ;
+    padding: 4px 10px;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    color: #fff;
+}
+
+#lista-tarefas {
+    padding: 0;
+}
+
+#lista-tarefas li {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
